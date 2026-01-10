@@ -1,0 +1,56 @@
+,,,,,,
+OrderID,CustomerName,Region,Product,Quantity,UnitPrice,OrderDate
+1001,Amit Sharma,North,Notebook,10,50,05-01-2024
+1002,Neha Verma,South,Pen,20,10,06-01-2024
+1003,Rahul Singh,East,Marker,15,25,07-01-2024
+1004,Pooja Mehta,West,Notebook,5,50,08-01-2024
+1005,Ankit Jain,North,Pencil,30,5,10-01-2024
+1006,Sneha Patel,South,Notebook,12,50,11-01-2024
+1007,Vikas Gupta,East,Eraser,25,8,13-01-2024
+1008,Meera Nair,West,Pen,18,10,15-01-2024
+1009,Anjali Rao,North,Marker,22,25,17-01-2024
+1010,Manoj Das,South,Notebook,8,50,18-01-2024
+1011,Ritika Sen,East,Pencil,40,5,19-01-2024
+1012,Karan Malhotra,West,Eraser,35,8,20-01-2024
+1013,Aryan Joshi,North,Notebook,14,50,22-01-2024
+1014,Divya Kapoor,South,Pen,28,10,23-01-2024
+1015,Sahil Arora,East,Marker,12,25,24-01-2024
+1016,Muskan Jain,West,Pencil,25,5,26-01-2024
+1017,Rohan Gupta,North,Eraser,20,8,28-01-2024
+1018,Nidhi Sharma,South,Notebook,10,50,29-01-2024
+1019,Tarun Verma,East,Pen,15,10,30-01-2024
+1020,Simran Kaur,West,Marker,18,25,01-02-2024
+1021,Deepak Rao,North,Notebook,9,50,02-02-2024
+1022,Payal Mehta,South,Pencil,35,5,03-02-2024
+1023,Aditya Singh,East,Eraser,30,8,04-02-2024
+1024,Shreya Nair,West,Notebook,11,50,06-02-2024
+1025,Sanjay Kumar,North,Pen,14,10,07-02-2024
+1026,Aarti Sharma,South,Marker,16,25,08-02-2024
+1027,Rajesh Patel,East,Pencil,22,5,09-02-2024
+1028,Preeti Joshi,West,Eraser,27,8,10-02-2024
+1029,Anurag Mishra,North,Notebook,13,50,12-02-2024
+1030,Sanya Kapoor,South,Pen,32,10,13-02-2024
+1031,Harsh Yadav,East,Marker,10,25,14-02-2024
+1032,Kajal Rani,West,Pencil,18,5,16-02-2024
+1033,Varun Sharma,North,Eraser,22,8,17-02-2024
+1034,Swati Arora,South,Notebook,17,50,18-02-2024
+1035,Akhil Jain,East,Pen,19,10,19-02-2024
+1036,Priyanka Das,West,Marker,15,25,21-02-2024
+1037,Ravi Nair,North,Pencil,28,5,22-02-2024
+1038,Komal Singh,South,Eraser,24,8,23-02-2024
+1039,Ayesha Khan,East,Notebook,16,50,25-02-2024
+1040,Arjun Mehta,West,Pen,27,10,26-02-2024
+1041,Sonali Gupta,North,Marker,21,25,27-02-2024
+1042,Neeraj Kapoor,South,Pencil,30,5,28-02-2024
+1043,Shruti Sharma,East,Eraser,26,8,01-03-2024
+1044,Yash Arora,West,Notebook,14,50,02-03-2024
+1045,Manish Das,North,Pen,20,10,03-03-2024
+1046,Rupal Nair,South,Marker,17,25,04-03-2024
+1047,Sonia Verma,East,Pencil,19,5,05-03-2024
+1048,Kunal Singh,West,Eraser,32,8,06-03-2024
+1049,Ritika Jain,North,Notebook,12,50,07-03-2024
+1050,Vivek Malhotra,South,Pen,25,10,08-03-2024
+,,,,,,
+Count A used for Couting Customer name ,50,,,,,
+Total sales of each price ,1092,,,,,
+total sales of Notebook in north Region Only ,250,,,,,
